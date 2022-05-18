@@ -1,0 +1,10 @@
+{
+  "name": "game_of_life",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "sergejmelihov",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
